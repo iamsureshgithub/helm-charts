@@ -3,12 +3,12 @@ entries:
   demo-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-05T06:47:18.652177957Z"
+    created: "2024-12-05T07:38:08.154097753Z"
     description: A Helm chart for Kubernetes
-    digest: 42ecbc13212eadb5896570c5fa57b7e4f788c439d1029c67b2070b00a7f2d130
+    digest: 004c38ab8bb109b140fd1b4998dd7f116f72d951d839dbdf39b2b5bfb3fee1b8
     name: demo-helm
     type: application
     urls:
     - https://iamsureshgithub.github.io/helm-charts/demo-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-05T06:47:18.650485621Z"
+generated: "2024-12-05T07:38:08.153416367Z"
